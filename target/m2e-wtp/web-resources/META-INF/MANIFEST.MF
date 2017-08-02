@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: SpringBootForBack Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: SpringBootForBack
 Build-Jdk: 1.7.0_79
 Built-By: nannan.c.wang
 Created-By: Maven Integration for Eclipse
+Implementation-URL: http://maven.apache.org
 
